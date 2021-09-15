@@ -9,10 +9,7 @@ import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import com.example.dtc_topics.R
 import com.example.dtc_topics.databinding.WebViewFragmentBinding
-import android.util.Log
-import android.util.Xml
 import android.webkit.*
-
 import java.net.URLEncoder
 
 
